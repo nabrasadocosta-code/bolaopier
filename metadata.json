@@ -1,0 +1,6 @@
+{
+  "name": "Bolão Copa 2026",
+  "description": "Aplicativo Mobile-First de Bolão Esportivo para a Copa do Mundo 2026 com controle financeiro, integração PIX e automação de resultados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
